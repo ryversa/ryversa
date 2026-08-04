@@ -1,4 +1,4 @@
-<div align="center">
+****<div align="center">
 
 # Ryan Aversa
 
@@ -17,24 +17,26 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Expertise
 
-Senior Full-Stack AI Engineer with **8+ years** of experience building AI-native products, scalable web applications, distributed backend systems, and cloud-native infrastructure.
-
-I enjoy transforming complex engineering challenges into simple, scalable solutions through thoughtful architecture, modern development practices, and practical AI integration.
+| Technical Expertise | Industry Experience |
+|--------------------|---------------------|
+| 🤖 AI Engineering & LLM Applications | 🏥 Healthcare Technology |
+| 🧠 Agentic AI & RAG Systems | ☁️ Enterprise SaaS |
+| 🌐 Full-Stack Development | 📺 Media & Entertainment |
+| ⚡ Distributed Systems & Microservices | 📊 Analytics & Business Intelligence |
+| ☁️ Cloud Architecture & DevOps | 🎙 Speech & Audio AI |
+| 🏗 Frontend Architecture & System Design | 📄 Enterprise Document Management |
+| 📈 Performance Optimization | 📱 Cross-Platform Mobile Applications |
+| 👥 Technical Leadership | 🛠 Developer Platforms & SDKs |
 
 ---
 
-## 🚀 Expertise
+## 👨‍💻 About Me
 
-- 🤖 AI Engineering & LLM Applications
-- 🧠 Agentic Workflows & RAG Systems
-- 🌐 Frontend Architecture
-- ⚡ Distributed Systems & Microservices
-- ☁️ Cloud Infrastructure & DevOps
-- 📈 Performance Optimization
-- 🏗 System Design
-- 👥 Technical Leadership & Product Engineering
+Senior Full-Stack AI Engineer with **8+ years** of experience designing scalable software across AI-native applications, distributed systems, cloud infrastructure, and modern web platforms.
+
+I enjoy solving complex engineering challenges by combining clean architecture, high-performance backend services, modern frontend engineering, and practical AI to build products that scale and deliver measurable business impact.
 
 ---
 
@@ -58,3 +60,4 @@ I enjoy transforming complex engineering challenges into simple, scalable soluti
 > **Build software that is simple to understand, easy to maintain, and designed to scale.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:2563EB&height=100&section=footer"/>
+****
