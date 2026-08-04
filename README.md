@@ -1,186 +1,192 @@
-````markdown
-# Hi there 👋 I'm Ryan Aversa
+```markdown
+<div align="center">
 
-## Senior Full-Stack AI Engineer
+# 👋 Hey there, I'm Ryan Aversa
 
-I design and build scalable software that bridges modern frontend engineering, distributed backend systems, cloud infrastructure, and AI-powered applications.
+### Senior Full-Stack AI Engineer
 
-With 8+ years of professional experience, I've worked across enterprise organizations and high-growth startups delivering production-ready systems used by thousands of users. My passion lies in solving difficult engineering problems through clean architecture, scalable design, and practical AI integration.
+Building AI-native products, distributed systems, cloud infrastructure, and modern web applications.
+
+<br>
+
+<a href="https://linkedin.com/in/ryan-aversa-6153b9425">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ryan.aaaversa@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+<h2>💡 About Me</h2>
 
-- 💻 Senior Full-Stack AI Engineer
-- 🤖 Building AI-native applications and developer tools
-- ⚡ Passionate about distributed systems and cloud architecture
-- 🌐 Experienced across frontend, backend, DevOps, and AI
-- 📍 Florida, USA
+Senior Full-Stack AI Engineer with **8+ years** of experience designing scalable software across frontend architecture, distributed backend systems, cloud infrastructure, and AI-powered applications.
+
+I enjoy building products where modern software engineering meets practical AI—whether that's large-scale web platforms, real-time collaboration systems, Retrieval-Augmented Generation (RAG), autonomous AI agents, or developer tooling.
+
+I believe great software comes from thoughtful architecture, clean code, strong engineering practices, and continuous learning.
 
 ---
 
-## 🛠 Tech Stack
+<h2>🚀 What I'm Working On</h2>
+
+- 🤖 Agentic AI Systems
+- 🧠 Retrieval-Augmented Generation (RAG)
+- ⚡ High-performance Backend APIs
+- 🌐 Distributed Systems
+- ☁️ Cloud-native Infrastructure
+- 📈 AI Developer Platforms
+- 🔍 Semantic Search
+- 🛠 Developer Experience
+
+---
+
+<h2>🛠 Tech Stack</h2>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=nextdotjs)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react)
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="42"/>
+<img width="12"/>
+
+<img src="https://cdn.simpleicons.org/typescript/3178C6" height="42"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="42"/>
+
+</p>
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)
+<p>
 
-### AI / Machine Learning
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42"/>
+<img width="12"/>
 
-- OpenAI
-- Anthropic Claude
-- LangGraph
-- Retrieval-Augmented Generation (RAG)
-- Vector Databases
-- pgvector
-- Pinecone
-- Prompt Engineering
-- Agentic AI Systems
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="42"/>
+<img width="12"/>
 
-### Cloud & DevOps
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
+<img width="12"/>
 
-- AWS
-- Docker
-- Kubernetes
-- Terraform
-- ECS
-- Fargate
-- CI/CD
-- GitHub Actions
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42"/>
+<img width="12"/>
 
-### Databases
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="42"/>
 
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
-- Elasticsearch
+</p>
 
----
+### AI / ML
 
-# 💼 Featured Projects
+<p>
 
-## 🤖 AI Research Agent
+<img src="https://skillicons.dev/icons?i=openai" height="42"/>
+<img width="12"/>
 
-Autonomous multi-agent system capable of planning, reasoning, memory management, and tool execution using modern LLMs.
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="42"/>
+<img width="12"/>
 
-**Tech**
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="42"/>
+<img width="12"/>
 
-- LangGraph
-- OpenAI
-- Claude
-- FastAPI
-- PostgreSQL
+<img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="42"/>
 
----
+</p>
 
-## 📚 Enterprise RAG Platform
+### Cloud
 
-High-performance Retrieval-Augmented Generation platform supporting semantic search across large-scale document collections.
+<p>
 
-**Features**
+<img src="https://skillicons.dev/icons?i=aws" height="42"/>
+<img width="12"/>
 
-- Vector Search
-- Document Ingestion
-- Embedding Pipelines
-- Streaming Responses
-- Citation Support
+<img src="https://skillicons.dev/icons?i=docker" height="42"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=kubernetes" height="42"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=terraform" height="42"/>
+
+</p>
 
 ---
 
-## ⚡ Real-Time Collaboration Platform
+<h2>📌 Featured Projects</h2>
 
-Scalable backend supporting real-time collaboration using WebSockets and event-driven architecture.
+### 🤖 AI Research Agent
 
-**Highlights**
-
-- FastAPI
-- Redis Pub/Sub
-- Horizontal Scaling
-- Streaming APIs
-- Docker
-
----
-
-## 🌐 Modern SaaS Platform
-
-Production-ready full-stack SaaS application demonstrating modern architecture and cloud-native deployment.
+Multi-agent workflow capable of planning, tool execution, memory, and reasoning using modern LLMs.
 
 **Stack**
 
-- Next.js
-- NestJS
-- PostgreSQL
-- Docker
-- Kubernetes
-- CI/CD
+FastAPI • LangGraph • OpenAI • Claude • PostgreSQL
 
 ---
 
-# 📈 Engineering Interests
+### 📚 Enterprise RAG Platform
 
-I'm particularly interested in:
-
-- AI Engineering
-- Distributed Systems
-- Backend Architecture
-- Cloud Infrastructure
-- Developer Experience
-- Large Language Models
-- Agentic Workflows
-- System Design
-- Performance Optimization
+Semantic search engine supporting large-scale document retrieval with vector databases and streaming inference.
 
 ---
 
-# 📊 GitHub Stats
+### ⚡ Real-Time Collaboration Platform
 
-> *(GitHub automatically renders these images.)*
-
-```text
-https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact
-````
+Distributed backend supporting high-concurrency WebSocket communication using Redis Pub/Sub and event-driven architecture.
 
 ---
 
-# 🤝 Let's Connect
+### 🌐 Modern SaaS Platform
 
-* 💼 LinkedIn: https://linkedin.com/in/ryan-aversa-6153b9425
-* 📧 Email: [ryan.aaaversa@gmail.com](mailto:ryan.aaaversa@gmail.com)
+Production-ready SaaS demonstrating scalable frontend architecture, backend services, authentication, and cloud deployment.
 
 ---
 
-> *"Great software is built through clean architecture, continuous learning, and solving real problems—not by chasing the latest trends."*
+<h2>📈 GitHub Analytics</h2>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<h2>🌱 Engineering Philosophy</h2>
+
+> Build software that is **simple to understand**, **easy to maintain**, and **scales with the business**.
+
+---
+
+<div align="center">
+
+### Thanks for visiting! 👋
+
+*"Always building. Always learning."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:06B6D4&height=120&section=footer"/>
 
 ```
-```
-
-<!--
-**ryversa/ryversa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
