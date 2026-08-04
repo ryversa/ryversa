@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=210&section=header&text=Ryan%20Aversa&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Senior%20Full-Stack%20AI%20Engineer&descAlignY=58&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=200&section=header&text=Ryan%20Aversa&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Senior%20Full-Stack%20AI%20Engineer&descAlignY=60&descSize=18"/>
 
-### Building AI-native products • Distributed Systems • Cloud Infrastructure
+### AI Engineering • Full-Stack Development • Distributed Systems • Cloud Architecture
 
 <a href="https://linkedin.com/in/ryan-aversa-6153b9425">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -16,76 +16,44 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-Senior Full-Stack AI Engineer with **8+ years** of experience designing scalable web applications, distributed backend systems, cloud-native infrastructure, and AI-powered platforms.
+Senior Full-Stack AI Engineer with **8+ years** of experience building AI-native products, scalable web applications, distributed backend systems, and cloud-native infrastructure.
 
-I enjoy solving complex engineering problems by combining modern frontend architecture, high-performance backend services, and practical AI to build products that are scalable, maintainable, and impactful.
+I enjoy transforming complex engineering challenges into simple, scalable solutions through thoughtful architecture, modern development practices, and practical AI integration.
 
 ---
 
-# 🚀 Current Focus
+## 🚀 Expertise
 
-- 🤖 Agentic AI & LLM Applications
-- 🧠 Retrieval-Augmented Generation (RAG)
+- 🤖 AI Engineering & LLM Applications
+- 🧠 Agentic Workflows & RAG Systems
+- 🌐 Frontend Architecture
 - ⚡ Distributed Systems & Microservices
-- ☁️ Cloud-Native Infrastructure
-- 🌐 Modern Frontend Architecture
-- 🔍 Performance Optimization
+- ☁️ Cloud Infrastructure & DevOps
+- 📈 Performance Optimization
+- 🏗 System Design
+- 👥 Technical Leadership & Product Engineering
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Technical Skills
 
-<table>
-<tr>
-<td><b>Frontend</b></td>
-<td>
-
-React • Next.js • Angular • TypeScript • React Native • Flutter • Tailwind CSS
-
-</td>
-</tr>
-
-<tr>
-<td><b>Backend</b></td>
-<td>
-
-Node.js • NestJS • Python • FastAPI • Go • GraphQL • Redis
-
-</td>
-</tr>
-
-<tr>
-<td><b>AI</b></td>
-<td>
-
-OpenAI • Claude • LangGraph • MCP • RAG • pgvector • Pinecone
-
-</td>
-</tr>
-
-<tr>
-<td><b>Cloud</b></td>
-<td>
-
-AWS • Docker • Kubernetes • Terraform • GitHub Actions
-
-</td>
-</tr>
-
-</table>
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | React • Next.js • Angular • React Native • Flutter • TypeScript • JavaScript • RxJS • Signals • Tailwind CSS • Redux • Zustand • Jotai • TanStack Query • shadcn/ui • PWA |
+| **Backend** | Node.js • Express • NestJS • Python • FastAPI • Django • Go • GraphQL • tRPC • REST APIs • WebSockets • Server-Sent Events • gRPC • Redis • Firebase • Supabase • Microservices |
+| **AI / ML** | OpenAI • Anthropic Claude • Gemini • LangGraph • MCP • RAG Pipelines • Agentic Workflows • Prompt Engineering • Vector Databases • pgvector • AI Coding Assistants • Parallel Agents • Model-driven Development |
+| **Cloud & DevOps** | AWS • Azure • GCP • Docker • Kubernetes • ECS • Lambda • SQS • RDS • CI/CD • GitHub • GitHub Copilot |
+| **Databases** | PostgreSQL • MySQL • MongoDB • Redis • Elasticsearch • Data Modeling |
+| **Testing** | Jest • React Testing Library • Cypress • Unit Testing • Integration Testing • End-to-End Testing |
+| **Architecture** | Frontend System Design • Component-Driven Development • Web SDK Development • Browser APIs • State Management • API Lifecycle Management • Database Schema Design • Accessibility (WCAG & Section 508) • Debugging |
+| **Engineering** | Product-Centric Engineering • Full-Lifecycle Ownership • Solution Architecture • Performance Optimization • Technical Mentorship • Cross-Functional Collaboration |
 
 ---
 
-# 💡 Engineering Philosophy
+## 💡 Engineering Philosophy
 
 > **Build software that is simple to understand, easy to maintain, and designed to scale.**
 
-<div align="center">
-
-⭐ Thanks for visiting my profile!
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:2563EB&height=110&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:2563EB&height=100&section=footer"/>
