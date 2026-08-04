@@ -2,16 +2,20 @@
 
 # Ryan Aversa
 
-### **Senior Full-Stack AI Engineer**
+### **SENIOR FULL-STACK AI ENGINEER**
 
 ### AI Engineering • Full-Stack Development • Distributed Systems • Cloud Architecture
 
-<a href="https://linkedin.com/in/ryan-aversa-6153b9425">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn"/>
+
+<a href="https://linkedin.com/in/ryan-aversa-6153b9425" target="_blank"></a>
+
+<a href="https://linkedin.com/in/ryan-aversa-6153b9425" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn"/>
 </a>
 
-<a href="https://x.com/ryanaaversa">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<a href="https://x.com/ryanaaversa" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="X"/>
 </a>
 
 </div>
