@@ -1,11 +1,10 @@
-```markdown
 <div align="center">
 
-# 👋 Hey there, I'm Ryan Aversa
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=220&section=header&text=Ryan%20Aversa&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20AI%20Engineer&descAlignY=58&descSize=20"/>
 
-### Senior Full-Stack AI Engineer
-
-Building AI-native products, distributed systems, cloud infrastructure, and modern web applications.
+<h3>
+Building AI-native products • Distributed Systems • Cloud Infrastructure • Modern Web Applications
+</h3>
 
 <br>
 
@@ -14,124 +13,123 @@ Building AI-native products, distributed systems, cloud infrastructure, and mode
 </a>
 
 <a href="mailto:ryan.aaaversa@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ryversa&style=for-the-badge"/>
 
 </div>
 
 ---
 
-<h2>💡 About Me</h2>
+# 👨🏻‍💻 About Me
 
-Senior Full-Stack AI Engineer with **8+ years** of experience designing scalable software across frontend architecture, distributed backend systems, cloud infrastructure, and AI-powered applications.
+I'm a **Senior Full-Stack AI Engineer** with **8+ years** of experience building scalable software across modern frontend applications, distributed backend systems, cloud infrastructure, and AI-powered platforms.
 
-I enjoy building products where modern software engineering meets practical AI—whether that's large-scale web platforms, real-time collaboration systems, Retrieval-Augmented Generation (RAG), autonomous AI agents, or developer tooling.
+My experience spans enterprise organizations and high-growth startups where I've designed production systems serving real users, optimized performance at scale, and delivered AI-native solutions from architecture through deployment.
 
-I believe great software comes from thoughtful architecture, clean code, strong engineering practices, and continuous learning.
+I enjoy solving difficult engineering problems with clean architecture, practical system design, and modern AI technologies.
 
 ---
 
-<h2>🚀 What I'm Working On</h2>
+# 🚀 Current Focus
 
-- 🤖 Agentic AI Systems
+- 🤖 AI Agents & Agentic Workflows
 - 🧠 Retrieval-Augmented Generation (RAG)
-- ⚡ High-performance Backend APIs
-- 🌐 Distributed Systems
-- ☁️ Cloud-native Infrastructure
-- 📈 AI Developer Platforms
+- ⚡ Distributed Backend Systems
+- ☁️ Cloud Native Infrastructure
+- 🌐 Large Scale Frontend Architecture
 - 🔍 Semantic Search
-- 🛠 Developer Experience
+- 🛠 Developer Platforms
+- 📈 Performance Engineering
 
 ---
 
-<h2>🛠 Tech Stack</h2>
+# 🛠 Tech Stack
 
-### Frontend
+## Frontend
 
-<p>
+<p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42"/>
-<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42"/>
-<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="42"/>
-<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45"/>
 
-<img src="https://cdn.simpleicons.org/typescript/3178C6" height="42"/>
-<img width="12"/>
+<img src="https://cdn.simpleicons.org/typescript/3178C6" height="45"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42"/>
-<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45"/>
 
-</p>
-
-### Backend
-
-<p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="42"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="42"/>
-
-</p>
-
-### AI / ML
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=openai" height="42"/>
-<img width="12"/>
-
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="42"/>
-<img width="12"/>
-
-<img src="https://cdn.simpleicons.org/docker/2496ED" height="42"/>
-<img width="12"/>
-
-<img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="42"/>
-
-</p>
-
-### Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws" height="42"/>
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=docker" height="42"/>
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=kubernetes" height="42"/>
-<img width="12"/>
-
-<img src="https://skillicons.dev/icons?i=terraform" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45"/>
 
 </p>
 
 ---
 
-<h2>📌 Featured Projects</h2>
+## Backend
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45"/>
+
+</p>
+
+---
+
+## AI / ML
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=openai" height="45"/>
+
+<img src="https://cdn.simpleicons.org/postgresql" height="45"/>
+
+<img src="https://cdn.simpleicons.org/docker" height="45"/>
+
+<img src="https://cdn.simpleicons.org/kubernetes" height="45"/>
+
+<img src="https://cdn.simpleicons.org/langchain" height="45"/>
+
+</p>
+
+---
+
+## Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=docker" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=kubernetes" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=terraform" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=githubactions" height="45"/>
+
+</p>
+
+---
+
+# 📌 Featured Projects
 
 ### 🤖 AI Research Agent
 
-Multi-agent workflow capable of planning, tool execution, memory, and reasoning using modern LLMs.
+> Multi-agent autonomous workflow capable of reasoning, planning, memory management, and tool execution using modern LLMs.
 
 **Stack**
 
@@ -141,52 +139,67 @@ FastAPI • LangGraph • OpenAI • Claude • PostgreSQL
 
 ### 📚 Enterprise RAG Platform
 
-Semantic search engine supporting large-scale document retrieval with vector databases and streaming inference.
+Semantic search platform supporting enterprise knowledge bases using vector search, embeddings, and streaming inference.
 
 ---
 
 ### ⚡ Real-Time Collaboration Platform
 
-Distributed backend supporting high-concurrency WebSocket communication using Redis Pub/Sub and event-driven architecture.
+Distributed WebSocket backend supporting high-concurrency collaborative AI applications with Redis Pub/Sub.
 
 ---
 
 ### 🌐 Modern SaaS Platform
 
-Production-ready SaaS demonstrating scalable frontend architecture, backend services, authentication, and cloud deployment.
+Production-ready SaaS demonstrating scalable frontend architecture, backend services, authentication, cloud deployment, and CI/CD.
 
 ---
 
-<h2>📈 GitHub Analytics</h2>
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ryversa&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryversa&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ryversa&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ryversa&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryversa&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-<h2>🌱 Engineering Philosophy</h2>
+# 💡 Engineering Philosophy
 
-> Build software that is **simple to understand**, **easy to maintain**, and **scales with the business**.
+> **"Build software that remains easy to understand, easy to maintain, and easy to scale."**
+
+I enjoy solving complex engineering challenges through thoughtful architecture, strong engineering practices, and continuous learning.
+
+---
+
+# 🤝 Let's Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/ryan-aversa-6153b9425
+- 📧 Email: ryan.aaaversa@gmail.com
 
 ---
 
 <div align="center">
 
-### Thanks for visiting! 👋
+### Thanks for visiting 👋
 
-*"Always building. Always learning."*
+⭐️ Feel free to explore my repositories and connect!
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:06B6D4&height=120&section=footer"/>
-
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:2563EB&height=120&section=footer"/>
