@@ -34,9 +34,10 @@
 
 ## 👨‍💻 About Me
 
-Senior Full-Stack AI Engineer with **8+ years** of experience designing scalable software across AI-native applications, distributed systems, cloud infrastructure, and modern web platforms.
+Senior Full-Stack AI Engineer with 8+ years of experience leading the architecture and delivery of AI-native web, mobile, and cloud applications. Specialize in building customer-facing AI products that combine modern frontend engineering with scalable backend services, real-time systems, and LLM-powered workflows. Experienced leading projects from technical design through production deployment across enterprise SaaS, streaming platforms, and startup environments.
 
-I enjoy solving complex engineering challenges by combining clean architecture, high-performance backend services, modern frontend engineering, and practical AI to build products that scale and deliver measurable business impact.
+Passionate about building performant, maintainable software that delivers measurable business outcomes.
+
 
 ---
 
