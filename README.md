@@ -46,7 +46,7 @@ Passionate about building performant, maintainable software that delivers measur
 | Category | Technologies |
 |----------|--------------|
 | **Frontend** | React • Next.js • Angular • React Native • Flutter • TypeScript • JavaScript • RxJS • Signals • Tailwind CSS • Redux • Zustand • Jotai • TanStack Query • shadcn/ui • PWA |
-| **Backend** | Node.js • Express • NestJS • Python • FastAPI • Django • Go • GraphQL • tRPC • REST APIs • WebSockets • Server-Sent Events • gRPC • Redis • Firebase • Supabase • Microservices |
+| **Backend** | Node.js • Express • NestJS • Python • FastAPI • Django • Ruby on Rails • GraphQL • tRPC • REST APIs • WebSockets • Server-Sent Events • gRPC • Redis • Firebase • Supabase • Microservices |
 | **AI / ML** | OpenAI • Anthropic Claude • Gemini • LangGraph • MCP • RAG Pipelines • Agentic Workflows • Prompt Engineering • Vector Databases • pgvector • AI Coding Assistants • Parallel Agents • Model-driven Development |
 | **Cloud & DevOps** | AWS • Azure • GCP • Docker • Kubernetes • ECS • Lambda • SQS • RDS • CI/CD • GitHub • GitHub Copilot |
 | **Databases** | PostgreSQL • MySQL • MongoDB • Redis • Elasticsearch • Data Modeling |
